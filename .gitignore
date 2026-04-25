@@ -7,6 +7,8 @@ __pycache__
 KMS
 .venv
 .vscode
+frontend/dist
+frontend/node_modules
 *.egg-info
 .pytest_cache
 .ruff_cache
